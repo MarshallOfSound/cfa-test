@@ -6,6 +6,6 @@
   "author": "Samuel Attard <sattard@slack-corp.com>",
   "license": "MIT",
   "dependencies": {
-    "continuous-authenticator": "0.0.4"
+    "continuous-authenticator": "0.0.5"
   }
 }

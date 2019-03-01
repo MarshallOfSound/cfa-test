@@ -10,10 +10,10 @@ axios@^0.18.0:
     follow-redirects "^1.3.0"
     is-buffer "^1.1.5"
 
-continuous-authenticator@0.0.5:
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/continuous-authenticator/-/continuous-authenticator-0.0.5.tgz#c5abeea83bb850f1d6bbc929b563152e052fdd1e"
-  integrity sha512-lk9Wuz1uEkDsIDUe6bGzYw4GY/M/U0RjmTBjwDmma8Wab2RJSApqyF1HxCJ0Lh3a8rMC2+KtHfIrRM2yzUC6tg==
+continuous-authenticator@0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/continuous-authenticator/-/continuous-authenticator-0.0.6.tgz#41729cb6461d2b604415cb9565f08187f3b40aa7"
+  integrity sha512-6TJfl0e+713jguhoGoe+uUsYtOviIe+CLz2vjZaLVwo6IkmhJ8RWm5VfWcoFRvrLdl06K4CzUF5gDDS/ZuabKA==
   dependencies:
     axios "^0.18.0"
 

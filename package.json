@@ -6,6 +6,9 @@
   "author": "Samuel Attard <sattard@slack-corp.com>",
   "license": "MIT",
   "dependencies": {
-    "@continous-auth/client": "1.0.0"
+    "@continuous-auth/client": "1.2.3"
+  },
+  "scripts": {
+    "test": "node index.js"
   }
 }

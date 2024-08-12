@@ -11,6 +11,8 @@ jobs:
     environment: cfa-release
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
       - uses: continuousauth/action@main
         with:
           project-id: ${{ secrets.CFA_PROJECT_ID }}
